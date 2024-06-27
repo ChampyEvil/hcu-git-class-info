@@ -3,6 +3,20 @@ Name: Champ
 Address: Nonthaburi
 
 ===========================================================
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 1e3e34c (add)
+=======
+>>>>>>> 7830b1a (add)
+>>>>>>> bb427cd (add)
 
 Name: Natee
 Address: Thailand
@@ -53,6 +67,7 @@ Address: madaguska
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 Name: Natee
 Address: Thailand
 
@@ -63,6 +78,21 @@ Address: Thailand
 Name: Natee
 Address: Thailand
 
+=======
+=======
+
+Name : Ajtarn
+Address : bangkok
+===============================================================
+Name: Natee
+Address: Thailand
+
+
+===========================================================
+>>>>>>> e68544f (add tarn info)
+Name : Ajtarn
+Address : bangkok
+>>>>>>> bb427cd (add)
 ===========================================================
 Name : Juiww
 Address : mairu
