@@ -2,7 +2,6 @@ Example
 Name: Champ
 Address: Nonthaburi
 
-
 Name: Natee
 Address: Thailand
 
@@ -53,69 +52,7 @@ Address: Thailand
 Name: Natee
 Address: Thailand
 
-=======
-
-Name : Ajtarn
-Address : bangkok
-===============================================================
-
-Name: Natee
-Address: Thailand
-
-===========================================================
-Name : Ajtarn
-Address : bangkok
-
-===========================================================
-Name : Juiww
-Address : mairu
-===========================================================
-
-Name: Non
-Address: Samutprakarn
-
-
-
-===========================================================
-
-Name: Ant
-Address: BKK
-
-===========================================================
-Name: preaw
-Address: samutprakran
-
-
-
-===========================================================
-
-Name: Juiowngfa
-Address: maibok
-
-===========================================================
-Name: Ajan
-Address: bkk
-
-===========================================================
-Name: Tatchakorn Chainiyom
-Address: Bangkok
-
-===========================================================
-Name: Phumipat
-Address: Bangkok
-
-===========================================================
-Name : Juizaza
-Address : BKK
-===========================================================
-
-Name: Ajan
-Address: bkk
-
-===========================================================
-
 Name: Kit
 Address: Samutprakarn
 
 ===========================================================
-
