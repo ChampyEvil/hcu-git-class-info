@@ -3,3 +3,9 @@ Name: Champ
 Address: Nonthaburi
 
 ===========================================================
+
+Example
+Name: preaw
+Address: samutprakran
+
+===========================================================
