@@ -10,6 +10,7 @@ Address: Thailand
 ===========================================================
 
 Name: Jui I Van
+Name: Jui
 Address: India
 
 ===========================================================
@@ -18,7 +19,11 @@ Address: Nonthaburi
 
 ===========================================================
 
+<<<<<<< HEAD
 
+=======
+Example
+>>>>>>> 7a341cd (add)
 Name: Gift
 Address: Samutprakarn
 
@@ -45,6 +50,16 @@ Address: madaguska
 
 ===========================================================
 
+<<<<<<< HEAD
+=======
+
+Name: Natee
+Address: Thailand
+
+===============================================================
+
+
+>>>>>>> 7a341cd (add)
 Name: Natee
 Address: Thailand
 
@@ -75,8 +90,8 @@ Name: Juiowngfa
 Address: maibok
 
 ===========================================================
-Name: Game
-Address: Bangbo
+Name: Ajan
+Address: bkk
 
 ===========================================================
 Name: Tatchakorn Chainiyom
@@ -90,3 +105,10 @@ Address: Bangkok
 Name : Juizaza
 Address : BKK
 ===========================================================
+<<<<<<< HEAD
+=======
+Name: Ajan
+Address: bkk
+
+===========================================================
+>>>>>>> 7a341cd (add)
