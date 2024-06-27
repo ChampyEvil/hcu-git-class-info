@@ -3,10 +3,7 @@ Name: Champ
 Address: Nonthaburi
 
 ===========================================================
-<<<<<<< HEAD
 
-=======
->>>>>>> f7052f5 (resolve conflict)
 Name: Natee
 Address: Thailand
 
@@ -24,8 +21,28 @@ Name: Non
 Address: Samutprakarn
 
 ===========================================================
-===========================================================
-Name: Ant
-Address: BKK
+Name: Dream
+Address: madaguska
 
 ===========================================================
+
+
+=======
+Name: Champ
+Address: Nonthaburi
+
+===========================================================
+Name: Dream
+Address: madaguska
+
+===========================================================
+
+
+
+
+
+
+
+
+
+>>>>>>> aa6ae68 (resolve config)
