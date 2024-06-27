@@ -51,29 +51,26 @@ Address: madaguska
 
 ===========================================================
 
-
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> 20e856c (add dream)
 =======
 Name: Champ
 Address: Nonthaburi
 
 ===========================================================
-<<<<<<< HEAD
-=======
->>>>>>> 317d0cd888053faafe46b8cf13bb839a4950196c
->>>>>>> 20e856c (add dream)
+
 Name: Dream
 Address: madaguska
 
 ===========================================================
 
+Name: Natee
+Address: Thailand
 
+===========================================================
 
+Name : Juiww
+Address : mairu
 
+<<<<<<< HEAD
 
 
 
@@ -100,4 +97,15 @@ Address: samutprakran
 >>>>>>> b43b2a3 (slove conflict)
 >>>>>>> 78052e1 (slove conflict)
 >>>>>>> 1d6877e (resolve conflict)
+<<<<<<< HEAD
 >>>>>>> 8fe48db2ce786734c29cb6902d42045bbfb99d67
+=======
+=======
+===========================================================
+>>>>>>> d0829d8 (ae)
+
+Name: Juiowngfa
+Address: maibok
+
+===========================================================
+>>>>>>> d81dbb1 (eaf)
