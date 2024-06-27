@@ -38,21 +38,22 @@ Address: Samutprakarn
 
 Name: Dream
 Address: madaguska
-
 ===========================================================
 Name: Champ
 Address: Nonthaburi
 
 ===========================================================
-
 Name: Dream
 Address: madaguska
 
 ===========================================================
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
+=======
+>>>>>>> 8eaf774 (Ajan)
 Name: Natee
 Address: Thailand
 
@@ -68,9 +69,9 @@ Address: Thailand
 Name : Ajtarn
 Address : bangkok
 ===============================================================
+
 Name: Natee
 Address: Thailand
-
 
 ===========================================================
 Name : Ajtarn
