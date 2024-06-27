@@ -27,11 +27,20 @@ Address: madaguska
 ===========================================================
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 20e856c (add dream)
 =======
 Name: Champ
 Address: Nonthaburi
 
 ===========================================================
+<<<<<<< HEAD
+=======
+>>>>>>> 317d0cd888053faafe46b8cf13bb839a4950196c
+>>>>>>> 20e856c (add dream)
 Name: Dream
 Address: madaguska
 
