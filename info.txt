@@ -14,23 +14,38 @@ Address: India
 Name: Champ
 Address: Nonthaburi
 
+<<<<<<< HEAD
 ===========================================================
 Name: Gift
 Address: Samutprakarn
 
 ===========================================================
+=======
+>>>>>>> 37cfa81 (resolve conflict)
 Name: Non
 Address: Samutprakarn
 
 ===========================================================
+<<<<<<< HEAD
+=======
+
+>>>>>>> 37cfa81 (resolve conflict)
 Name: Dream
 Address: madaguska
 
 ===========================================================
+<<<<<<< HEAD
+=======
+
+>>>>>>> 37cfa81 (resolve conflict)
 Name: Champ
 Address: Nonthaburi
 
 ===========================================================
+<<<<<<< HEAD
+=======
+
+>>>>>>> 37cfa81 (resolve conflict)
 Name: Dream
 Address: madaguska
 
@@ -38,6 +53,7 @@ Address: madaguska
 Name: Natee
 Address: Thailand
 
+<<<<<<< HEAD
 ===========================================================
 Name : Juiww
 Address : mairu
@@ -47,14 +63,22 @@ Name: Non
 Address: Samutprakarn
 
 ===========================================================
+=======
+>>>>>>> 37cfa81 (resolve conflict)
 Name: Ant
 Address: BKK
 
 ===========================================================
+<<<<<<< HEAD
+=======
+
+Example
+>>>>>>> 37cfa81 (resolve conflict)
 Name: preaw
 Address: samutprakran
 
 ===========================================================
+<<<<<<< HEAD
 Name: Juiowngfa
 Address: maibok
 
@@ -67,3 +91,5 @@ Name: Tatchakorn Chainiyom
 Address: Bangkok
 
 ===========================================================
+=======
+>>>>>>> 37cfa81 (resolve conflict)
