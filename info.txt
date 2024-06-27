@@ -4,6 +4,7 @@ Address: Nonthaburi
 
 ===========================================================
 <<<<<<< HEAD
+<<<<<<< HEAD
 Name: Natee
 Address: Thailand
 
@@ -15,3 +16,11 @@ Address: India
 ===========================================================
 
 >>>>>>> 0ac2264db5990bf38972e15dede86bfe3c0aca9f
+=======
+
+Example
+Name: Gift
+Address: Samutprakarn
+
+===========================================================
+>>>>>>> 00aeeb7 (update)
