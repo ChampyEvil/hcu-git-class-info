@@ -2,7 +2,6 @@ Example
 Name: Champ
 Address: Nonthaburi
 
-===========================================================
 
 Name: Natee
 Address: Thailand
@@ -17,13 +16,10 @@ Address: India
 Name: Champ
 Address: Nonthaburi
 
+
 ===========================================================
 
-<<<<<<< HEAD
 
-=======
-Example
->>>>>>> 7a341cd (add)
 Name: Gift
 Address: Samutprakarn
 
@@ -48,19 +44,12 @@ Address: madaguska
 
 ===========================================================
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-=======
->>>>>>> 8eaf774 (Ajan)
 Name: Natee
 Address: Thailand
 
 ===============================================================
 
 
->>>>>>> 7a341cd (add)
 Name: Natee
 Address: Thailand
 
@@ -119,10 +108,14 @@ Address: Bangkok
 Name : Juizaza
 Address : BKK
 ===========================================================
-<<<<<<< HEAD
-=======
+
 Name: Ajan
 Address: bkk
 
 ===========================================================
->>>>>>> 7a341cd (add)
+
+Name: Kit
+Address: Samutprakarn
+
+===========================================================
+
