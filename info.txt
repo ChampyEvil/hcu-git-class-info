@@ -15,12 +15,14 @@ Address: India
 Name: Champ
 Address: Nonthaburi
 
+<<<<<<< HEAD
 
 ==============
 Name: Non
 Address: Samutprakarn
 
 ===========================================================
+<<<<<<< HEAD
 Name: Dream
 Address: madaguska
 
@@ -55,3 +57,23 @@ Address: madaguska
 
 
 >>>>>>> aa6ae68 (resolve config)
+=======
+<<<<<<< HEAD
+===========================================================
+Name: Ant
+Address: BKK
+
+===========================================================
+=======
+=======
+=======
+
+Example
+Name: preaw
+Address: samutprakran
+
+===========================================================
+>>>>>>> a14d026 (Add preaw information)
+>>>>>>> b43b2a3 (slove conflict)
+>>>>>>> 78052e1 (slove conflict)
+>>>>>>> 1d6877e (resolve conflict)
